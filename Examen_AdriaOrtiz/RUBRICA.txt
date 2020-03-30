@@ -1,0 +1,5 @@
+Terrain
+3 Triggers: DeadZone, item recolectable y zona de inversion de controles
+Iluminacion del escenario conm 3 luces (dentro de la casa) y ciclo dia/noche
+HUD con items recogidos, vida del player y tiempo transcurrido
+Animaciones HUD, una al iniciar y otra cuando se coge un item
