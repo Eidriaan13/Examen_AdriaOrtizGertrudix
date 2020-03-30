@@ -1,0 +1,5 @@
+- Terrain
+- 3 triggers: item recolectable, zona de muerte y zona de inversión de controles
+- Iluminacion escenario con 3 tipos de luz (ver dentro de la casa) y simulacion dia/noche
+- HUD con vida player, cantidad items y tiempo desde que empezo la partida
+- 2 animaciones del hud: una al inicio, otra cuando se recolecta un item
